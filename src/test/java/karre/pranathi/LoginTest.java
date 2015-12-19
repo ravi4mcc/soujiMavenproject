@@ -19,6 +19,7 @@ public class LoginTest {
 	public void dologin()
 	{
 		driver.get("http://gmail.com");
+		System.out.println("Hello");
 	}
 	
 }
